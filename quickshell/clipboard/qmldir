@@ -1,3 +1,0 @@
-module qs
-singleton Theme 1.0 Theme.qml
-Clipboard 1.0 modules/Clipboard.qml
